@@ -4,7 +4,7 @@ let mainResult;
 num1 = Math.floor((Math.random() * 100) + 1);
 num2 = Math.floor((Math.random() * 100) + 1);
 num3 = Math.floor((Math.random() * (3 - 0)));
-//1st comment
+//2nd try of 1st comment
 switch (num3) {
   case 0:
   {
